@@ -1,0 +1,8 @@
+<div class="post-container">
+    <h1>{{post.title}}</h1>
+    <p>{{post.content}}</p>
+    <p>{{post.dateTime}}</p>
+    <p>{{post.user.userName}}</p>
+    <app-comments [comments]="post.comments"></app-comments>
+    <app-new-comment [comments]="post.comments" [postId]="post.postId"></app-new-comment>
+</div>

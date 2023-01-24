@@ -1,0 +1,5 @@
+<div *ngFor="let comment of comments">
+    <p>{{ comment.content }}</p>
+    <p>{{ comment.user.userName }}</p>
+    <p>{{ comment.dateTime | date }}</p>
+</div>
