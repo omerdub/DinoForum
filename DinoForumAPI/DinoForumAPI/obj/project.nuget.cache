@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ALpvjrUIWcoZVkHHp4X6dVr/SC58epEkgvhHBHE3nyknT3pUrDZgLduxJ9USAG/x/2MUBXGSko0mjCfqX/wiZw==",
+  "dgSpecHash": "5kteYV0Ln3/QaqOUpDftzH4QzvZa+yhAvfBezviR+oaDFtL/4WnCm1Pyn5V1KnhQVZ5A0hBwHVVWGFkDuY1OPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
+  "projectFilePath": "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omer\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Omer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",

@@ -8,6 +8,8 @@ import { getPostByPostIdRequest } from '../models/httpRequests/getPostByPostId.r
 import { GetPostByPostIdResponse } from '../models/httpResponses/getPostByPostId.response';
 import { NewCommentRequest } from '../models/httpRequests/newComment.request';
 import { NewCommentResponse } from '../models/httpResponses/newComment.response';
+import { NewPostRequest } from '../models/httpRequests/newPost.request';
+import { NewPostResponse } from '../models/httpResponses/newPost.response';
 
 @Injectable({
     providedIn: 'root'
@@ -28,5 +30,9 @@ export class PostsService {
 
     newComment(newCommentRequest: NewCommentRequest): Observable<NewCommentResponse> {
         return this.http.post<NewCommentResponse>(`${this.baseUrl}/post/newcomment`, newCommentRequest);
+    }
+
+    newPost(newPostRequest: NewPostRequest): Observable<NewPostResponse> {
+        return this.http.post<NewPostResponse>(`${this.baseUrl}/post/newpost`, newPostRequest);
     }
 }

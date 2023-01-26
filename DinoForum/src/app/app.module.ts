@@ -8,11 +8,12 @@ import { RegisterComponent } from './routes/register/register.component';
 import { HomeComponent } from './routes/home/home.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
-import { HeaderComponent } from './header/header.component';
+import { HeaderComponent } from './components/header/header.component';
 import { PostsComponent } from './components/posts/posts.component';
 import { PostComponent } from './routes/post/post.component';
 import { NewCommentComponent } from './components/new-comment/new-comment.component';
 import { CommentsComponent } from './components/comments/comments.component';
+import { NewPostComponent } from './routes/new-post/new-post.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { CommentsComponent } from './components/comments/comments.component';
     PostsComponent,
     PostComponent,
     NewCommentComponent,
-    CommentsComponent
+    CommentsComponent,
+    NewPostComponent
   ],
   imports: [
     BrowserModule,

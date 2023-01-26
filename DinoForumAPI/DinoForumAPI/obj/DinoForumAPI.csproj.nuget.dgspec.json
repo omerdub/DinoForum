@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj": {}
+    "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj": {
+    "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
         "projectName": "DinoForumAPI",
-        "projectPath": "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
+        "projectPath": "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\DinoForumAPI.csproj",
         "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omer\\Desktop\\⠀\\Dino\\DinoForumAPI\\DinoForumAPI\\obj\\",
+        "outputPath": "C:\\Users\\Omer\\Documents\\DinoForum\\DinoForumAPI\\DinoForumAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Omer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+<div>
+    <h3>New Post</h3>
+    <form (submit)="onSubmit()">
+        <div class="form-group">
+            <input type="text" [(ngModel)]="title" name="title" class="form-control" placeholder="title">
+            <textarea [(ngModel)]="content" name="content" class="form-control"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Post</button>
+    </form>
+</div>
